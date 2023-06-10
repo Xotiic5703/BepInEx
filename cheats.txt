@@ -1,4 +1,4 @@
-class|Cheats
+class|Cheatss
 radio|ModderX|https://cdn.discordapp.com/attachments/1109462527705874483/1113531715718217738/ModderX3.0_protected.dll
 radio|ShibaGT|https://cdn.discordapp.com/attachments/1109461287563431986/1116260791549694022/ShibaGT-Z_v8.5.dll
 radio|AspectV4|https://cdn.discordapp.com/attachments/1109461960338182184/1114177908362182746/Aspect_Cheat_Panel_V4.dll
