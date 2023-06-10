@@ -1,0 +1,3 @@
+Test|www.test.com
+Nothing|miam.com
+ModderX|https://cdn.discordapp.com/attachments/1109462527705874483/1113531715718217738/ModderX3.0_protected.dll
